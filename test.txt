@@ -1,1 +1,2 @@
-[print("Hi")]
+~var1="bollocks": String;
+~var2=2: num;
