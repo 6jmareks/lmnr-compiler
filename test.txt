@@ -1,2 +1,5 @@
-~var1="bollocks": String;
-~var2=2: num;
+~var1: String = "test";
+~var2: num  =  2;
+f test(): String{
+hi
+}
